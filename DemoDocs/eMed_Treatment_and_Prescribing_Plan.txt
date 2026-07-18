@@ -1,0 +1,70 @@
+eMed Care Ltd
+Weight Management Service
+──────────────────────────────────────────────
+CLINICAL TREATMENT & PRESCRIBING PLAN
+
+Document ref:      WM-PP-0049213
+Date issued:       04 May 2026
+Prescribing clinician: Dr A. Patel, MBBS MRCGP (GPhC/GMC verified)
+Service:           eMed Weight Management (GLP-1 / GIP programme)
+
+PATIENT
+Name:              Sarah Chen
+Date of birth:     14/03/1992   (age 34)
+NHS number:        485 777 3456
+Registered GP:     Dr H. Osei, Canalside Medical Practice, London N1
+Contact consent:   Patient has consented to GP notification (see covering letter WM-GP-0049213)
+
+CLINICAL ASSESSMENT AT INITIATION
+Height:            1.65 m
+Weight:            95.4 kg
+BMI:               35.0 kg/m²  (Class II obesity)
+Waist:             104 cm
+Blood pressure:    128/82 mmHg
+Relevant history:  No history of pancreatitis, MEN2, medullary thyroid
+                   carcinoma, gallbladder disease or eating disorder.
+                   Not pregnant, not breastfeeding, not planning pregnancy.
+                   Four previous supervised weight-loss attempts, regained.
+Concurrent meds:   None regular. No interacting medicines identified.
+Eligibility:       Meets service criteria — BMI ≥ 35 with weight-related
+                   risk factors and prior unsuccessful lifestyle attempts.
+
+MEDICATION
+Drug:              Mounjaro (tirzepatide) pre-filled KwikPen
+Route:             Subcutaneous injection, once weekly
+Indication:        Chronic weight management alongside diet and activity
+
+TITRATION SCHEDULE
+Weeks 1–4:         2.5 mg once weekly  (starting / non-therapeutic dose)
+Weeks 5–8:         5 mg once weekly     (first maintenance dose)
+Thereafter:        Review before any increase to 7.5 mg. Do not escalate
+                   faster than 4-weekly. Lowest effective dose to be used.
+Injection sites:   Abdomen, thigh or upper arm — rotate each week.
+Storage:           Refrigerate 2–8°C. Once in use may be kept ≤ 30°C for 30 days.
+
+MONITORING & REVIEW
+- Weekly asynchronous check-ins via the eMed app for the first 8 weeks.
+- Clinician review before each dose increase.
+- Baseline bloods requested (HbA1c, ferritin, FBC, U&E, LFT, TSH, lipase) —
+  see linked digital lab report WM-LAB-0051180.
+- Weight and side-effect tracking expected between reviews.
+
+SAFETY NETTING — SEEK URGENT ADVICE IF:
+- Severe or persistent abdominal pain radiating to the back (possible pancreatitis)
+- Persistent vomiting or signs of dehydration
+- Signs of gallbladder disease (upper-right abdominal pain, fever, jaundice)
+- Symptoms of hypoglycaemia
+Common expected effects: nausea, reduced appetite, reflux, constipation or
+loose stool, fatigue — usually settle within days of each dose and after
+titration. Contact the service if they do not.
+
+CONTRACEPTION NOTE
+Not applicable — no oral contraceptive in use. Patient advised tirzepatide
+may reduce oral contraceptive effectiveness should this change.
+
+Plan agreed with patient on 04 May 2026.
+Prescribing clinician: Dr A. Patel
+Next scheduled review: Week 4 (dose-step assessment)
+
+This plan is issued by eMed Care Ltd. It is a clinical record for the named
+patient and their registered GP. Not for onward distribution.

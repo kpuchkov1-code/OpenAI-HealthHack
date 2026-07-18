@@ -1,0 +1,68 @@
+eMed Care Ltd
+Weight Management Service
+1 Kings Cross Bridge, London N1 9AL
+clinical@emed.example
+──────────────────────────────────────────────
+
+GP SUMMARY NOTIFICATION LETTER
+
+Our ref:   WM-GP-0049213
+Date:      06 May 2026
+
+To:        Dr H. Osei
+           Canalside Medical Practice
+           14 Wharf Road, London N1 7GR
+
+Re:        Sarah Chen
+           DOB 14/03/1992
+           NHS number 485 777 3456
+
+Dear Dr Osei,
+
+I am writing to let you know that the above patient, who is registered with
+your practice, has today started treatment through the eMed Weight Management
+Service. The patient has consented to this notification.
+
+REASON FOR TREATMENT
+Ms Chen was assessed as eligible for the service with a BMI of 35.0 kg/m²
+(height 1.65 m, weight 95.4 kg) and a history of four previous unsuccessful
+supervised weight-loss attempts. Baseline blood pressure 128/82 mmHg. No
+contraindications to GLP-1 / GIP receptor agonist therapy were identified on
+assessment.
+
+MEDICATION STARTED
+Drug:        Mounjaro (tirzepatide), subcutaneous once weekly
+Start dose:  2.5 mg weekly for 4 weeks
+Plan:        Increase to 5 mg weekly from week 5, with clinician review before
+             any further increase. Full titration plan on file (ref WM-PP-0049213).
+Started:     04 May 2026
+
+BASELINE INVESTIGATIONS
+Baseline bloods have been requested (HbA1c, ferritin, FBC, U&E, LFT, TSH,
+lipase). Results will be reviewed within the service; any clinically relevant
+finding will be shared with you separately.
+
+MONITORING ARRANGEMENTS
+Ms Chen will be monitored within the eMed service via weekly check-ins and
+clinician review at each dose step. All prescribing and monitoring for this
+medication will be carried out by eMed. We are not asking your practice to
+prescribe or monitor this treatment.
+
+WHAT WE WOULD ASK OF YOU
+No action is required. We would be grateful if you could add this medication
+to the patient's record for completeness and safety. Please contact us if you
+hold any information suggesting this treatment may not be appropriate — for
+example a history of pancreatitis, medullary thyroid carcinoma, MEN2, or a
+current pregnancy — as this was not identified at our assessment.
+
+Please do not hesitate to contact the clinical team on the details above if
+you have any questions.
+
+Yours sincerely,
+
+Dr A. Patel
+MBBS MRCGP — Prescribing Clinician
+eMed Weight Management Service
+
+This letter contains confidential patient information and is intended only for
+the named recipient.

@@ -1,0 +1,108 @@
+:root {
+    --amber: #e0932f;
+    --amber-soft: #f6e4c8;
+    --ink: #2a2320;
+    --muted: #6f655d;
+    --paper: #fdfaf5;
+    --card: #ffffff;
+    --line: #efe6d8;
+}
+
+* { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+    margin: 0;
+    background: var(--paper);
+    color: var(--ink);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    line-height: 1.65;
+    font-size: 17px;
+}
+
+.wrap {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 40px 22px 80px;
+}
+
+header.masthead {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding-bottom: 28px;
+    margin-bottom: 32px;
+    border-bottom: 1px solid var(--line);
+}
+
+.dot {
+    width: 34px;
+    height: 34px;
+    border-radius: 50%;
+    background: radial-gradient(circle at 32% 30%, #f4bf73, var(--amber));
+    flex: 0 0 auto;
+}
+
+.masthead .name { font-weight: 700; font-size: 19px; letter-spacing: -0.01em; }
+.masthead .tag { color: var(--muted); font-size: 14px; margin-top: 1px; }
+
+h1 {
+    font-size: 30px;
+    letter-spacing: -0.02em;
+    margin: 0 0 6px;
+}
+
+.updated {
+    color: var(--muted);
+    font-size: 14px;
+    margin: 0 0 34px;
+}
+
+h2 {
+    font-size: 20px;
+    letter-spacing: -0.01em;
+    margin: 38px 0 10px;
+}
+
+p, li { color: #3a332e; }
+
+a { color: var(--amber); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+.lead {
+    font-size: 18px;
+    color: var(--ink);
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-left: 3px solid var(--amber);
+    border-radius: 12px;
+    padding: 16px 18px;
+}
+
+ul { padding-left: 22px; }
+li { margin: 6px 0; }
+
+footer {
+    margin-top: 56px;
+    padding-top: 22px;
+    border-top: 1px solid var(--line);
+    color: var(--muted);
+    font-size: 14px;
+    display: flex;
+    gap: 18px;
+    flex-wrap: wrap;
+}
+
+.pill-links { margin: 30px 0 0; display: flex; gap: 12px; flex-wrap: wrap; }
+.pill {
+    display: inline-block;
+    padding: 10px 16px;
+    border-radius: 999px;
+    background: var(--card);
+    border: 1px solid var(--line);
+    font-size: 15px;
+    font-weight: 600;
+    color: var(--ink);
+}
+.pill:hover { border-color: var(--amber); text-decoration: none; }

@@ -1,0 +1,46 @@
+eMed Care Ltd — Digital Laboratory Report
+Analysis by The Doctors Laboratory (TDL), London
+──────────────────────────────────────────────
+Report ref:        WM-LAB-0051180
+Sample collected:  05/06/2026  09:14
+Report authorised: 07/06/2026  16:02
+Sample type:       Venous blood (serum / EDTA / fluoride)
+Requesting clinician: Dr A. Patel — eMed Weight Management
+
+PATIENT
+Name:              CHEN, Sarah
+Date of birth:     14/03/1992
+Sex:               Female
+Reference:         485 777 3456
+
+RESULTS
+Analyte              Result       Units       Reference range   Flag
+─────────────────────────────────────────────────────────────────────
+HbA1c                36           mmol/mol    20 – 41
+Ferritin             18           ug/L        15 – 150          LOW END
+Haemoglobin          128          g/L         120 – 150
+White cell count     6.1          x10^9/L     4.0 – 11.0
+Platelets            271          x10^9/L     150 – 400
+Sodium               139          mmol/L      133 – 146
+Potassium            4.2          mmol/L      3.5 – 5.3
+Urea                 4.8          mmol/L      2.5 – 7.8
+Creatinine           68           umol/L      45 – 84
+eGFR                 >90          mL/min      >90
+ALT                  22           U/L         0 – 33
+Alk phosphatase      64           U/L         30 – 130
+Bilirubin            9            umol/L      0 – 21
+TSH                  1.8          mU/L        0.40 – 4.00
+Lipase               41           U/L         13 – 60
+
+LABORATORY COMMENT
+Overall panel satisfactory for treatment initiation and continuation.
+Ferritin sits at the low end of the reference range; no anaemia present
+(haemoglobin normal). No action required on this panel — recommend repeat
+ferritin in 3 months. Renal, liver, thyroid and glycaemic markers within
+range. Lipase within normal limits.
+
+Results reviewed by requesting clinician: Dr A. Patel, 07/06/2026.
+Electronically authorised — no signature required.
+
+Analysis performed by The Doctors Laboratory (TDL) on behalf of eMed Care
+Ltd. This report relates only to the sample identified above.
